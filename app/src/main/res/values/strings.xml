@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">FinCalc</string>
+
+    //Add multi language method: https://phrase.com/blog/posts/android-how-to-translate-apps-in-android-studio/
+    <string name="app_name">FinCalculator</string>
+    <string name="calc_invest">Calc Principal and Profit</string>
+    <string name="principal">Principal:</string>
+    <string name="profit_rate">Profit rate:</string>
+    <string name="invest_years">Invest Tears:</string>
+    <string name="invest_total">Principal and Profit:</string>
+    <string name="calc_loan">Calc Repayment of Loan</string>
+    <string name="loan">Loan:</string>
+    <string name="interest">Interest:</string>
+    <string name="loan_years">Loan Years:</string>
+    <string name="repayment">Repayment per Month:</string>
+    <string name="calc">Calculate</string>
+    <string name="input_error">Error! Input cannot be empty!</string>
 </resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">理財計算機</string>
+    <string name="calc_invest">投資本利和計算</string>
+    <string name="principal">投資本金:</string>
+    <string name="profit_rate">設定年報酬率:</string>
+    <string name="invest_years">投資年數:</string>
+    <string name="invest_total">投資本利和:</string>
+    <string name="calc_loan">貸款本息攤還計算</string>
+    <string name="loan">貸款金額</string>
+    <string name="interest">貸款年利率:</string>
+    <string name="loan_years">貸款年數:</string>
+    <string name="repayment">每月攤還本息:</string>
+    <string name="calc">計算</string>
+    <string name="input_error">錯誤! 輸入不可空白!</string>
+
+</resources>
